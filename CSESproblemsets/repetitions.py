@@ -9,6 +9,6 @@ for letters in range(1, len(n)):
         count = 1
     if count > compare:
         compare = count
-print(count)
+print(compare)
 # for index, char in enumerate(n):
 #
