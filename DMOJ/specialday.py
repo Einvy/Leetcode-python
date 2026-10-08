@@ -1,0 +1,21 @@
+a = int(input())
+b = int(input())
+feb = int(2)
+
+if a > 2:
+    print("After")
+elif a < 2:
+    print("Before")
+elif a == 2:
+    if b == 18:
+        print("Special")
+    elif b > 18:
+        print("After")
+    else:
+        print("Before")
+
+
+
+
+
+
